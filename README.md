@@ -1,5 +1,5 @@
 # Tetris (Raylib + C++)
-A simple Tetris game project made with raylib library in c++, offers a pretty generic Tetris gameplay experience, a simple UI, as well as music and sound.
+A simple Tetris game project made with raylib library in c++, offers a pretty generic Tetris gameplay experience and a simple UI.
 
 ## Requirements
 - CMake (3.15+)
