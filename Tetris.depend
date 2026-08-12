@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1786386679 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\main.cpp
+	<raylib.h>
+	"game.h"
+	<iostream>
+
+1786227672 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\grid.h
+	<vector>
+	<raylib.h>
+	"Block.h"
+
+1786227694 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\grid.cpp
+	<iostream>
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+	"colors.h"
+
+1786228558 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\block.cpp
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+	"colors.h"
+
+1786228558 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\block.h
+	<vector>
+	<map>
+	"Position.h"
+	<raylib.h>
+
+1786064193 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\position.h
+
+1786051503 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\position.cpp
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+
+1786056133 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\colors.cpp
+	"colors.h"
+	<raylib.h>
+	<vector>
+	"colors.h"
+
+1786053137 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\colors.h
+	<raylib.h>
+	<vector>
+
+1786204272 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\blocks.cpp
+	"Block.h"
+	"Position.h"
+
+1786204272 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\blocks.cpp
+	"Block.h"
+	"Position.h"
+
+1786228815 source:c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\game.cpp
+	"game.h"
+	<random>
+
+1786129685 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\\game.h
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+	"blocks.cpp"
+
+1786053300 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\\grid.h
+	<vector>
+	<raylib.h>
+	"Block.h"
+
+1786056218 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\\block.h
+	<vector>
+	<map>
+	"Position.h"
+	<raylib.h>
+
+1786064193 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\\position.h
+
+1786129801 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\\blocks.cpp
+	"Block.h"
+	"Position.h"
+
+1786228558 c:\users\zakaria mamouri\onedrive\desktop\cpp learning\tetris\game.h
+	"grid.h"
+	<vector>
+	"Blocks.cpp"
+
+1786498901 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\block.cpp
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+	"colors.h"
+
+1786495249 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\grid.h
+	<vector>
+	<raylib.h>
+	"Block.h"
+
+1786498901 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\block.h
+	<vector>
+	<map>
+	"Position.h"
+	<raylib.h>
+
+1786064193 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\position.h
+
+1786480359 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\colors.h
+	<raylib.h>
+	<vector>
+
+1786204272 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\blocks.cpp
+	"Block.h"
+	"Position.h"
+
+1786480359 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\colors.cpp
+	"colors.h"
+	<raylib.h>
+	<vector>
+	"colors.h"
+
+1786504290 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\game.cpp
+	"game.h"
+	<random>
+
+1786503233 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\game.h
+	"grid.h"
+	<vector>
+	"Blocks.cpp"
+
+1786204272 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\blocks.cpp
+	"Block.h"
+	"Position.h"
+
+1786495248 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\grid.cpp
+	<iostream>
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+	"colors.h"
+	"game.h"
+
+1786503225 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\main.cpp
+	<raylib.h>
+	"game.h"
+	<iostream>
+	<ctime>
+	"colors.h"
+	<iostream>
+
+1786051503 source:c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\position.cpp
+	<raylib.h>
+	"grid.h"
+	"Block.h"
+	"Position.h"
+
+1786480359 c:\users\zakaria mamouri\onedrive\desktop\c++ game dev\tetris\colors.cpp
+	"colors.h"
+	<raylib.h>
+	<vector>
+	"colors.h"
+

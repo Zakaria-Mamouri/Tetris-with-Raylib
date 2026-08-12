@@ -1,0 +1,14 @@
+# Build artifacts
+obj/
+bin/
+*.o
+*.exe
+*.depend
+*.layout
+
+# Code::Blocks
+*.cbp.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
