@@ -31,6 +31,7 @@ int main()
 
     while(WindowShouldClose() == false)
     {
+        //UpdateMusicStream(game.music);
         game.HandleInput();
         BeginDrawing();
         ClearBackground(darkBlue);
